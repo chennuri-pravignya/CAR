@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d7c7c049-5848-4f6d-843b-acdda97497c1)# Car Dash Board
+# Car Dash Board
 might include the following components:
 
 User Authentication: Users can create accounts, log in, and manage their profiles. This enables users to access personalized features and secure their information.
