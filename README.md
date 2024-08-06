@@ -1,5 +1,5 @@
 # Car Dash Board
-might include the following components:
+ include the following components:
 
 User Authentication: Users can create accounts, log in, and manage their profiles. This enables users to access personalized features and secure their information.
 
