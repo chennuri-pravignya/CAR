@@ -19,7 +19,7 @@ Integration with External APIs (optional): The app may integrate with external s
 
 It's important to note that the exact features and functionalities of a car web app can vary depending on the specific requirements and goals of the project. The technologies used to build such an app can include Node.js for the backend, a database like MongoDB for storing car data, front-end frameworks like React or Angular, and various libraries and tools for implementing features like user authentication, search functionality, and API integrations
 
-HOW.....?
+# HOW.....?
 The first step in developing a car web app is to define the requirements and functionalities you want to include. Once you have a clear understanding of your goals, you can start building the application using relevant technologies. Here's a description of the initial steps involved in creating a car web app:
 
 Designing the User Interface (UI):
@@ -52,7 +52,7 @@ Choose a hosting platform such as AWS, Azure, or Heroku to deploy your applicati
 Set up continuous integration and deployment pipelines for automatic deployments.
 Regularly update and maintain the app by fixing bugs, implementing new features, and optimizing performance.
 Remember, this is a high-level overview, and each step may involve more detailed sub-tasks depending on your specific requirements and the technologies you choose to use.
-Car-webApp-NodeJS
+# Car-webApp-NodeJS
 ![image](https://github.com/user-attachments/assets/bcd48b50-44bd-4c3e-8224-67df1590507d)
 ![image](https://github.com/user-attachments/assets/baf94404-1819-4eaf-af88-86e37e911e6e)
 ![image](https://github.com/user-attachments/assets/8742d9bb-ae7b-48e3-90d0-63af56e63355)
